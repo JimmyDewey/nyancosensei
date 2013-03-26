@@ -1,10 +1,15 @@
 #===========================================================================
-Author: Dewey
-Email: fordewey@126.com
-Version: 0.0.1
-Licenses: MIT
-LastChange: 2012-04-10 23:45:27
-Describe: 《夏目友人帐》中的猫咪老师，纯CSS3绘制
+@Author: Dewey
+
+@Email: fordewey@126.com
+
+@Version: 0.0.1
+
+@Licenses: MIT
+
+@LastChange: 2012-04-10 23:45:27
+
+@Describe: 《夏目友人帐》中的猫咪老师，纯CSS3绘制
              -----chrome 18; safari 5.1.4 中有完整的观赏效果
              -----ie 10; firefox 10/11 中可正常显示，但无动画
              -----opera 11.61中猫咪背部色块无法被圆角的外框遮盖，无动画
